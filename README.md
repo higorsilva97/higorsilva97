@@ -1,5 +1,5 @@
 # Hello, I'm [Higor Silva](https://www.linkedin.com/in/higorsilva97)
-<h2> Desenvolvedor/Estudante WEB </h2>
+<h2> Desenvolvedor Front-End </h2>
 <h3> Tecnologias utilizadas </h3>
 <hr>
 <div>
